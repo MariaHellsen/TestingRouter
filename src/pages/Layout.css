@@ -4,5 +4,6 @@
 }
 
 .main {
-  min-height: 500px;
+  min-height: 400px;
+  padding-top: 200px;
 }
